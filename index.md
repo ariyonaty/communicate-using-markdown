@@ -5,3 +5,7 @@
 ```python
 print("This is a code example!")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline portfolio
+- [ ] Introduction  
